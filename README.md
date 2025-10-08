@@ -1,6 +1,6 @@
 # Unity project containing two projects
 
-## chess 3d
+## Chess 3d
 This project was made to challenge my problem skills to implement the chess rules in c#. It contains a scene where two players on the same computer can play chess with each other.
 
 ## Aimlabs
